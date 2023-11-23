@@ -5,7 +5,7 @@ function App() {
   return (
     <section className="relative flex flex-col min-h-[100dvh] bg-[#f6f6f6]">
       <Header />
-      <main className="grow" />
+      <main className="grow"></main>
       <Footer />
     </section>
   );

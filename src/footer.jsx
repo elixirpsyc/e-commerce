@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="sticky inset-0 bg-[#ffffff]">
+    <footer className="bg-[#ffffff]" id="footer">
       <div className="p-3 xl:w-[80%] xl:mx-auto flex flex-col sm:flex-row justify-center items-center sm:justify-between gap-4 sm:gap-8">
         <ul className="flex flex-col items-center justify-center gap-2">
           <li>Email :- customercare@ddstore.in</li>
